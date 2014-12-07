@@ -1,1 +1,1 @@
-See seungjin.github.io/digital_nomad_developing_2014
+See seungjin.github.io/Software-Development-in-Digital-Nomading-Era-2014
